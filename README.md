@@ -4,7 +4,7 @@ Build the Whole Project:
 
     mvn clean install
 	
-	![alt text](screen-shots/01-build-whole-proj.png)
+	![alt text](./screen-shots/01-build-whole-proj.png)
 	
 Build a Specific Module:
 
@@ -17,4 +17,4 @@ Build a Specific Module:
 
 	  mvn clean install -pl 01-pessimistic-locking -am
 
-	  ![alt text](screen-shots/02-build-module-proj.png)
+	  ![alt text](./screen-shots/02-build-module-proj.png)
